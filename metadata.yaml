@@ -1,0 +1,32 @@
+_repo: The-deadly-thinkers_70623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beyer, William Gray
+    alias: Beyer, Wm. Gray
+    gutenberg_agent_id: '55830'
+    url: http://www.gutenberg.org/2009/agents/55830
+    wikipedia: https://en.wikipedia.org/wiki/William_Gray_Beyer
+description: ''
+gutenberg_issued: '2023-04-22'
+identifiers:
+  gutenberg: '70623'
+language: en
+pgterms:marc905: 20220527150819beyer
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Artificial intelligence -- Fiction'
+- !lcsh 'Computers -- Fiction'
+- !lcsh 'Psychic ability -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The deadly thinkers
+url: http://www.gutenberg.org/ebooks/70623
